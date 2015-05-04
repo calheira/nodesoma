@@ -1,0 +1,23 @@
+{
+  "name": "soma",
+  "version": "1.0.0",
+  "description": "soma os numeros em uma array",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/calheira/nodesoma.git"
+  },
+  "keywords": [
+    "soma",
+    "numeros"
+  ],
+  "author": "Bruno Calheira <bruno@calheira.com> (http://calheira.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/calheira/nodesoma/issues"
+  },
+  "homepage": "https://github.com/calheira/nodesoma"
+}
